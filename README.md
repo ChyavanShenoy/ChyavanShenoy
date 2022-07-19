@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#About me:sunglasses:
-[image](https://user-images.githubusercontent.com/32121448/179801098-b4fc95b4-f3fc-4df4-be48-021c20d3ede4.png)
-Learning and practicing Godot
+# About me:sunglasses:
+- Currently Learning and practicing Godot <img src="https://user-images.githubusercontent.com/32121448/179801489-d4d9de6c-443a-480d-8c58-87266af4bd34.png" alt="Godot icon" />
 - 🌱 I’m currently learning Python
