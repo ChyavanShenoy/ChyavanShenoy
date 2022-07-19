@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#About me:sunglasses:
+[image](https://user-images.githubusercontent.com/32121448/179801098-b4fc95b4-f3fc-4df4-be48-021c20d3ede4.png)
+Learning and practicing Godot
+- 🌱 I’m currently learning Python
