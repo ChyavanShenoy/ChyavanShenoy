@@ -9,4 +9,4 @@
 - 🌱 I’m currently learning Python and Go.
 
 ## Frameworks and Languages that I use:
-- HTML, CSS, JavaScript, React, Next JS, C/C++.
+- HTML, CSS, JavaScript, React, Next JS, and C/C++.
