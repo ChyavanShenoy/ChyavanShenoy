@@ -1,12 +1,12 @@
 ### Hi there 👋
 # About me:sunglasses:
-- A developer.
-- Self motivated and a Quick Learner.
-- Building apps for a better user experience.
+- A developer 🖥️
+- Self motivated and a Quick Learner 📚
+- Building applications for a better world 🌏
 
 # What am I up to?
-- Currently Learning and practicing Godot.
-- I’m currently learning Python and Go.
+- Currently Learning and practicing Unreal Engine.
+- I’m currently working with Python and JavaScript.
 
 ## Frameworks and Languages that I use:
-- HTML, CSS, JavaScript, React, Next JS, and C/C++.
+- Python, Unreal Engine, HTML, CSS, JavaScript, React, and C/C++.
