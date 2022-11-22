@@ -2,7 +2,7 @@
 # About me:sunglasses:
 - A developer 🖥️
 - Self motivated and a Quick Learner 📚
-- Building applications for a better world 🌏
+- Building applications
 
 # What am I up to?
 - Currently Learning and practicing Unreal Engine.
